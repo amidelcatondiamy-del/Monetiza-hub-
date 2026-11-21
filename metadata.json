@@ -1,0 +1,6 @@
+{
+  "name": "Monetiza Hub - Plataforma de Monetização",
+  "description": "Plataforma completa de monetização para criadores e negócios: produtos digitais, assinaturas recorrentes, tipping/gorjetas, afiliados, paywall e dashboard financeiro.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

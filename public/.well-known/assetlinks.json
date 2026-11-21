@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.monetizahub.creator",
+      "sha256_cert_fingerprints": [
+        "14:6D:E9:7D:0F:52:AB:FC:0C:FB:DC:60:85:6B:F1:BA:C7:E9:2A:C4:6E:20:9B:4D:42:0B:4C:E6:B5:43:21:09"
+      ]
+    }
+  }
+]
